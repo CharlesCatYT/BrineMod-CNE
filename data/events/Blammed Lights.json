@@ -1,0 +1,14 @@
+{
+	"params": [
+		{
+			"name": "Activade?",
+			"type": "Bool",
+			"defaultValue": true
+		},
+		{
+			"name": "Color",
+			"type": "ColorWheel",
+            "defaultValue": "#FF0000"
+		}		
+	]
+}

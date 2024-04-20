@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="90" icon="norcher" camx="-30" y="280" isGF="false" scale="1.2" camy="-70" color="#663333" flipX="true" isPlayer="false" sprite="notcher">
+	<anim x="88" loop="false" y="56" fps="24" anim="right" name="singLEFT"/>
+	<anim x="1" loop="false" y="-12" fps="24" anim="left" name="singRIGHT"/>
+	<anim x="-5" loop="false" y="118" fps="24" anim="up" name="singUP"/>
+	<anim x="-31" loop="false" y="50" fps="24" anim="idle" name="idle"/>
+	<anim x="13" loop="false" y="-16" fps="24" anim="down" name="singDOWN"/>
+</character>

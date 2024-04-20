@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"NORMAL"
+	],
+	"icon": "brine",
+	"parsedColor": -10455126,
+	"coopAllowed": true,
+	"name": "sighting",
+	"color": "#6077AA",
+	"customValues": {},
+	"stepsPerBeat": 4,
+	"displayName": "Brine",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 155
+}
